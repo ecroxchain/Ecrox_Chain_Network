@@ -31,7 +31,7 @@
 ## General
 ### Clone Repository
 ```
-$ git clone https://github.com/ecroxchain/network.git ~/Dev/network
+$ git clone https://github.com/ecroxchain/Ecrox_Chain_Network.git ~/Dev/Ecrox_Chain_Network
 ```
 
 ### Install Dependencies
@@ -61,9 +61,9 @@ $ npm run flatten
 ```
 
 ### Deploy
-Make sure `NETWORK_NAME` is defined in [`truffle-config`](https://github.com/ecroxchain/network/blob/master/truffle-config.js)
+Make sure `NETWORK_NAME` is defined in [`truffle-config`](https://github.com/ecroxchain/Ecrox_Chain_Network/blob/master/truffle-config.js)
 
-Make sure you've created an `.env` using the template [`env.example`](https://github.com/ecroxchain/network/blob/master/.env.example)
+Make sure you've created an `.env` using the template [`env.example`](https://github.com/ecroxchain/Ecrox_Chain_Network/blob/master/.env.example)
 
 Run:
 
